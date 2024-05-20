@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "428423848290",
+    "project_id": "chatapp-tutorial-f8d2b",
+    "storage_bucket": "chatapp-tutorial-f8d2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428423848290:android:1877ea2d507d1a3804cc3b",
+        "android_client_info": {
+          "package_name": "com.example.kabum_chatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfinwJw-mP6jRGU4pKHqLogBmIOp6D-lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
